@@ -1,24 +1,24 @@
 body{
     background-color: black;
-    
+    margin: 0px;
 }
 
 .navbar a{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
     color: white;
     font-size: large;
-    padding: 5px;
+    padding: 10px;
 }
 
 .navbar ul {
     display: inline-block;
+    justify-content: center;
     justify-content: space-evenly;
     display: flex;
-    padding: 5px;
     margin-top: 20px;
+    margin: 20px;
 }
 
-.img{
-    margin-top: 20px;
-}
+
